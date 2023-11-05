@@ -20,7 +20,7 @@
 
 ### Connect with Me :
 
-<a href="[https://linkedin.com/in/mohamedhantash](https://www.linkedin.com/in/mohamed-hantash-08344b295/)" target="_blank"><img src="https://img.shields.io/badge/-Mohamed.K.H-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B7WcW%2Bv%2BzR6KT%2BuBSO5x80A%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Mohamed.K.H-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed.K.H-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logo=dotnet)&nbsp;
