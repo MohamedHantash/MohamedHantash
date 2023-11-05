@@ -20,8 +20,8 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/mohamedhantash" target="_blank"><img src="https://img.shields.io/badge/-Sob7y-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/sob7yy" target="_blank"><img src="https://img.shields.io/badge/-Sob7yy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="[https://linkedin.com/in/mohamedhantash](https://www.linkedin.com/in/mohamed-hantash-08344b295/)" target="_blank"><img src="https://img.shields.io/badge/-Mohamed.K.H-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed.K.H-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logo=dotnet)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logo=white)&nbsp;
